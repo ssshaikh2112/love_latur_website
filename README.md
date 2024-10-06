@@ -32,6 +32,11 @@ The primary objective of LOVE Latur is to promote tourism, education, and local 
 
 * Collaboration with local businesses for promotional campaigns and special offers.
 
+## Technologies Used:
+* HTML
+* CSS
+* JS
+
 ## Authors
 
 * [Sahil Shaikh](https://github.com/ssshaikh2112)
